@@ -6371,10 +6371,10 @@ timeline-state-resolver-types@^3.18.0:
   dependencies:
     tslib "^1.10.0"
 
-timeline-state-resolver@3.18.0:
-  version "3.18.0"
-  resolved "https://registry.yarnpkg.com/timeline-state-resolver/-/timeline-state-resolver-3.18.0.tgz#e38dab6e6b51352dbdeea245ca3335d4be735643"
-  integrity sha512-bWeoFRh+Qvg074QgDfSe+2WCT3epE0rzNR/DCqz8lm0XRkxl+SAfYEihB0LoPSTVXOb3xc+pQEBGOTHxB+UamQ==
+timeline-state-resolver@3.18.1-nightly-fix-quantel-reconnect-after-restart-20200305-092911-1227f3de.0:
+  version "3.18.1-nightly-fix-quantel-reconnect-after-restart-20200305-092911-1227f3de.0"
+  resolved "https://registry.yarnpkg.com/timeline-state-resolver/-/timeline-state-resolver-3.18.1-nightly-fix-quantel-reconnect-after-restart-20200305-092911-1227f3de.0.tgz#eb137bd0373274313e20fa51bca92cdc86d68ce3"
+  integrity sha512-J/BZ2eaIURMfqHLwAVN7Wx3ZU59Ocesow9kwppm6KvGGd8qGdRyzQDJEW37Ud5xpKgd1EeDEqniORalnIlVLOA==
   dependencies:
     atem-connection "1.1.0"
     atem-state "^0.9.0"
